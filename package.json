@@ -1,0 +1,15 @@
+{
+  "name": "fluid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joshvillbrandt/fluid.git",
+  "author": "Josh Villbrandt <josh@javconcepts.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server"
+  }
+}
